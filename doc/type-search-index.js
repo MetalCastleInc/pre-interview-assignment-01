@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"main"},{"p":"ca.metalcastle.demos.eg.assignment01","l":"Rectangle"},{"p":"ca.metalcastle.demos.eg.assignment01","l":"RectangleTest"}]
